@@ -1,2 +1,2 @@
-# Ballista-LTD.github.io
+# Ballista
 The official website of Ballista
